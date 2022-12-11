@@ -1,0 +1,3 @@
+/home/george/smart-reading-lamp-tinyml/src/pioasm/CMakeFiles/rebuild_cache.dir
+/home/george/smart-reading-lamp-tinyml/src/pioasm/CMakeFiles/edit_cache.dir
+/home/george/smart-reading-lamp-tinyml/src/pioasm/CMakeFiles/pioasm.dir
